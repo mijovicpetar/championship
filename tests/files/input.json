@@ -1,0 +1,128 @@
+[
+    {
+        "leagueTitle": "Champions league 2016/17",
+        "matchday": 1,
+        "group": "A",
+        "homeTeam": "PSG",
+        "awayTeam": "Arsenal",
+        "kickoffAt": "2017-09-13T20:45:00",
+        "score": "1:1"
+    },
+    {
+        "leagueTitle": "Champions league 2016/17",
+        "matchday": 1,
+        "group": "A",
+        "homeTeam": "Basel",
+        "awayTeam": "Ludogorets",
+        "kickoffAt": "2017-09-13T20:45:00",
+        "score": "1:1"
+    },
+    {
+        "leagueTitle": "Champions league 2016/17",
+        "matchday": 2,
+        "group": "A",
+        "homeTeam": "Arsenal",
+        "awayTeam": "Basel",
+        "kickoffAt": "2017-09-28T20:45:00",
+        "score": "2:0"
+    },
+    {
+        "leagueTitle": "Champions league 2016/17",
+        "matchday": 2,
+        "group": "A",
+        "homeTeam": "Ludogorets",
+        "awayTeam": "PSG",
+        "kickoffAt": "2017-09-28T20:45:00",
+        "score": "1:3"
+    },
+    {
+        "leagueTitle": "Champions league 2016/17",
+        "matchday": 1,
+        "group": "A",
+        "homeTeam": "Arsenal",
+        "awayTeam": "Ludogorets",
+        "kickoffAt": "2017-10-19T20:45:00",
+        "score": "6:0"
+    },
+    {
+        "leagueTitle": "Champions league 2016/17",
+        "matchday": 1,
+        "group": "A",
+        "homeTeam": "PSG",
+        "awayTeam": "Basel",
+        "kickoffAt": "2017-10-19T20:45:00",
+        "score": "3:0"
+    },
+    {
+        "leagueTitle": "Champions league 2016/17",
+        "matchday": 1,
+        "group": "A",
+        "homeTeam": "Ludogorets",
+        "awayTeam": "Arsenal",
+        "kickoffAt": "2017-11-01T20:45:00",
+        "score": "2:3"
+    },
+    {
+        "leagueTitle": "Champions league 2016/17",
+        "matchday": 1,
+        "group": "A",
+        "homeTeam": "PSG",
+        "awayTeam": "Basel",
+        "kickoffAt": "2017-11-01T20:45:00",
+        "score": "1:2"
+    },
+    {
+        "leagueTitle": "Champions league 2016/17",
+        "matchday": 1,
+        "group": "A",
+        "homeTeam": "Arsenal",
+        "awayTeam": "PSG",
+        "kickoffAt": "2017-11-23T20:45:00",
+        "score": "2:2"
+    },
+    {
+        "leagueTitle": "Champions league 2016/17",
+        "matchday": 1,
+        "group": "A",
+        "homeTeam": "Ludogorets",
+        "awayTeam": "Basel",
+        "kickoffAt": "2017-11-23T20:45:00",
+        "score": "0:0"
+    },
+    {
+        "leagueTitle": "Champions league 2016/17",
+        "matchday": 1,
+        "group": "A",
+        "homeTeam": "Basel",
+        "awayTeam": "Arsenal",
+        "kickoffAt": "2017-12-07T20:45:00",
+        "score": "1:4"
+    },
+    {
+        "leagueTitle": "Champions league 2016/17",
+        "matchday": 1,
+        "group": "A",
+        "homeTeam": "PSG",
+        "awayTeam": "Ludogorets",
+        "kickoffAt": "2017-12-07T20:45:00",
+        "score": "2:2"
+    },
+    {
+        "leagueTitle": "Champions league 2018/19",
+        "matchday": 1,
+        "group": "B",
+        "homeTeam": "Partizan",
+        "awayTeam": "Zvezda",
+        "kickoffAt": "2018-12-07T20:45:00",
+        "score": "2:2"
+    },
+    {
+        "leagueTitle": "Champions league 2018/19",
+        "matchday": 2,
+        "group": "B",
+        "homeTeam": "Dinamo",
+        "awayTeam": "Alanja",
+        "kickoffAt": "2018-11-07T20:45:00",
+        "score": "3:2"
+    }
+]
